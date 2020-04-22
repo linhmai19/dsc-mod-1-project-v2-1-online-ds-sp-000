@@ -1,6 +1,6 @@
 # MOVIE INDUSTRY ANALYSIS 
 
-![](images/industry.jpg)
+![](industry.jpg)
 
 ## Introduction 
 
