@@ -12,7 +12,14 @@ In this project, we will take a look at some datasets about the movie industry t
 2. How does the genre of a movie affect its popularity?
 3. How the cost of making a movie affect its popularity and
    is there a relationship between production budget and profit?
-4. Can run time of a movie have an effect on its profit?
+4. Can duration of a movie have any effect on popularity an profitability?
+
+## Appendix for Files
+
+* Question 1: release_date_effect.ipynb
+* Question 2: genre_effect.ipynb
+* Question 3: production_cost_effect.ipynb
+* Question 4: duration_effect.ipynb
 
 ## Datasets 
 
@@ -22,11 +29,6 @@ All movie related data from the following source
 * IMDB
 * Rotten Tomatoes
 * TheMovieDB.org
-
-## Appendix for Files
-
-* studentipynb 
-  The final conclusion on the research and analysis
 
 ## Non-technical Presentation
 
