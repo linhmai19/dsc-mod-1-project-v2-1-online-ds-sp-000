@@ -9,7 +9,7 @@ In this project, we will take a look at some datasets about the movie industry t
 ## Research Questions
 
 1. How does the release date of a movie affect its popularity and profit?
-2. How does the genre of a movie affect its popularity?
+2. Which movie genres do the top 300 recent movies have?
 3. How the cost of making a movie affect its popularity and
    is there a relationship between production budget and profit?
 4. Can duration of a movie have any effect on popularity an profitability?
