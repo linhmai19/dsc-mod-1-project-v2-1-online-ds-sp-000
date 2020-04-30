@@ -36,8 +36,8 @@ All movie related data from the following source
 
 ## Walkthrough Video
 
-<a heref="">Oral Presentation</a>
+<a href="">Oral Presentation</a>
 
 ## Blog post
 
-<a heref="https://linhmai19.github.io/effects_on_movies_popularity_and_box_office_revenue">Effects on Movies' Popularity and Box Office Revenue</a>
+<a href="https://linhmai19.github.io/effects_on_movies_popularity_and_box_office_revenue">Effects on Movies' Popularity and Box Office Revenue</a>
