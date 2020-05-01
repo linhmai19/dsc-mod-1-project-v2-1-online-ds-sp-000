@@ -36,7 +36,7 @@ All movie related data from the following source
 
 ## Walkthrough Video
 
-<a href="">Oral Presentation</a>
+<a href="https://drive.google.com/file/d/1nu4S3_S2iO8EMhCqzBlNSgOMlUM50O7W/view?usp=sharing">Oral Presentation</a>
 
 ## Blog post
 
